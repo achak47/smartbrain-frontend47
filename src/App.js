@@ -8,10 +8,6 @@ import Logo from './LOGO/logo';
 import Imag from './Image/image';
 import Rank from './rank/rank' ;
 import Facedetect from './Face/facedetection.js';
-import Clarifai from 'clarifai';
-const app = new Clarifai.App({
-  apiKey: 'f656cc73e40844d5a5d984cc88c3d102'
- });
 const particlesop = {
   particles: {
     number: {
