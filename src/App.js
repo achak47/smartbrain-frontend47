@@ -1,12 +1,12 @@
 import React,{Component} from 'react';
 import './App.css';
 import Signin from './Signin/signin' ;
-import Register from './Register/Register' ;
+import Register from './Register/register' ;
 import Particles from 'react-particles-js';
 import Navigation from './Navigation/navigation';
-import Logo from './LOGO/Logo';
-import Imag from './Image/Image';
-import Rank from './rank/Rank' ;
+import Logo from './LOGO/logo';
+import Imag from './Image/image';
+import Rank from './rank/rank' ;
 import Facedetect from './Face/facedetection.js';
 import Clarifai from 'clarifai';
 const app = new Clarifai.App({

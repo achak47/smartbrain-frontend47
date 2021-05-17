@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css' ;
+import '../app.css' ;
 const Facedect = ({imageUrl , box})=> {
   return(
    <div className='center ma'>
