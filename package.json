@@ -12,6 +12,7 @@
     "web-vitals": "^1.1.2"
   },
   "engines": {
+    "npm": "6.14.12",
     "node": "14.16.1"
   },
   "scripts": {
