@@ -124,7 +124,6 @@ class App extends Component{
     </div>
   ); }
 }
-
 export default App ;
 // NOTE :- If we want to destructure and intead of say this.state.imageurl we want to use just
 //imageurl ignoring the this. part , so we basically have to do at the beginning of the render ,
